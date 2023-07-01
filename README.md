@@ -1,7 +1,7 @@
-# Snake Detection and Alerting System
+# Animal Detection and Alerting System
 
 ## Description
-The Snake Detection and Alerting System is a computer vision project that aims to detect the presence of snakes in proximity to humans and issue alerts in real-time. The system utilizes a custom-trained YOLOv model and leverages the power of OpenCV for processing the detections. This project can be extended to include the detection and alerting of other dangerous animals as well.
+The Animal Detection and Alerting System is a computer vision project that aims to detect the presence of snakes in proximity to humans and issue alerts in real-time. The system utilizes a custom-trained YOLOv model and leverages the power of OpenCV for processing the detections. Initially we are focussing on snakes, but this project can be extended to include the detection and alerting of other dangerous animals as well.
 
 ## Project Goals
 - Develop an accurate and efficient snake detection system capable of real-time processing.
