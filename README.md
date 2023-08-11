@@ -41,7 +41,7 @@ The Animal Detection and Alerting System is a computer vision project that aims 
    - Provide options for logging and storing detection data for further analysis.
 
 ## Technologies Used
-- Programming Language: Python
+- Programming Language: PyTorch
 - Deep Learning Framework: YOLOv
 - Computer Vision Library: OpenCV
 
